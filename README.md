@@ -6,7 +6,7 @@ Software Engineer
 
 I've worked as a developer since mid 2021\
 Having good experience in mobile, web, back-end, dev-ops and blockchain development.\
-By understanding deeply in computer science, I can work with many programing languages and frameworks.\
+By understanding deeply in computer science, I can work with many programing languages and frameworks.
 
 * 🌍  I'm based in Vietnam
 * ✉️  You can contact me at [ntrongtin11702@gmail.com](mailto:ntrongtin11702@gmail.com)
