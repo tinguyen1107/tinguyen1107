@@ -1,10 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tinguyen
 ================================================================================================================================
 
-Developer
+Software Engineer
 ---------
 
-I've worked as a developer for 3 years, have good experience in web front-end, back-end, dev-ops and blockchain development. By understanding deeply in computer science, I can work with many programing languages and frameworks.
+I've worked as a developer since mid 2021
+Having good experience in mobile, web, back-end, dev-ops and blockchain development.
+By understanding deeply in computer science, I can work with many programing languages and frameworks.
 
 * 🌍  I'm based in Vietnam
 * ✉️  You can contact me at [ntrongtin11702@gmail.com](mailto:ntrongtin11702@gmail.com)
